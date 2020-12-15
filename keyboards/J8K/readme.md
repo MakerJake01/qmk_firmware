@@ -5,8 +5,8 @@
 *A 8 key hotswap macropad with an oled screen and 2 encoders*
 
 * Keyboard Maintainer: [MakerJake](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: *J8K custom PCB*
+* Hardware Availability: *not yet for sail *
 
 Make example for this keyboard (after setting up your build environment):
 
