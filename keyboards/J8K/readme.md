@@ -2,7 +2,7 @@
 
 ![J8K](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*A 8 key hotswap macropad with an oled screen and 2 encoders*
 
 * Keyboard Maintainer: [MakerJake](https://github.com/yourusername)
 * Hardware Supported: *The PCBs, controllers supported*
