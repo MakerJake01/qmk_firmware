@@ -6,7 +6,7 @@
 
 * Keyboard Maintainer: [MakerJake](https://github.com/yourusername)
 * Hardware Supported: *J8K custom PCB*
-* Hardware Availability: *not yet for sail *
+* Hardware Availability: *not yet for sale*
 
 Make example for this keyboard (after setting up your build environment):
 
