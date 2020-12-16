@@ -11,6 +11,7 @@
 The only keymap so far is a the via keymap as it has one layer. I am planning on update the number of keymaps soon. 
 
 Via keymap:
+
     ___________________________________________________________________________
     | KC_MEDIA_PREV_TRACK | KC_MEDIA_NEXT_TRACK | RGB_M_R | KC_AUDIO_VOL_UP   |
     |________________________________________________________________________ |
