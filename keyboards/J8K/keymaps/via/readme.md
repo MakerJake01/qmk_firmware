@@ -1,1 +1,1 @@
-# The default keymap for J8K
+# This is a via compatable keymap for the J8K 

@@ -7,7 +7,7 @@ enum layers {
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 	[0] = LAYOUT_ortho_4x2(
-    KC_MEDIA_PREV_TRACK, KC_MEDIA_NEXT_TRACK,     RGB_TOG,    KC_AUDIO_VOL_UP,
+    KC_MEDIA_PREV_TRACK, KC_MEDIA_NEXT_TRACK,     RGB_M_R,    KC_AUDIO_VOL_UP,
     KC_AUDIO_MUTE,       KC_F23,         KC_F24,    KC_AUDIO_VOL_DOWN
     )
 };
