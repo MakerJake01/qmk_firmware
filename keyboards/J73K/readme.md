@@ -2,7 +2,7 @@
 
 ![J73K](imgur.com image replace me!)
 
-*This is my first pcb! Its a 15*5 73 key ortho keyboard.*
+*This is my first pcb! Its a 15x5 73 key ortho keyboard.*
 
 * Keyboard Maintainer: [MakerJake](https://github.com/yourusername)
 * Hardware Supported: *The PCBs, controllers supported*
