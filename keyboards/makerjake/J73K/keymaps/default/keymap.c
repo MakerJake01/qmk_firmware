@@ -87,8 +87,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     ),
     [1] = LAYOUT(
         KC_TRNS,  X(BANG),                 X(SNEK),                     KC_TRNS,    KC_TRNS,    KC_TRNS,    KC_KP_MINUS, KC_KP_SLASH, KC_PPLS , KC_TRNS,    KC_TRNS,   KC_TRNS,                KC_TRNS,    KC_TRNS,    KC_DEL,
-        KC_TRNS,  KC_TRNS,                 KC_AUDIO_VOL_UP,       XP(MACESMALL,MACEBIG),    KC_TRNS,    KC_TRNS,    KC_KP_7,        KC_KP_8,       KC_KP_9,     KC_TRNS,    XP(MACUSMALL,MACUBIG),    XP(MACISMALL,MACIBIG),   XP(MACOSMALL,MACOBIG),    KC_TRNS,    KC_TRNS,
-        KC_TRNS,  XP(MACASMALL,MACABIG),   KC_AUDIO_VOL_DOWN,                     KC_MEDIA_PLAY_PAUSE,    KC_TRNS,    KC_TRNS,    KC_KP_4,        KC_KP_5,       KC_KP_6,     KC_TRNS,    KC_TRNS,    KC_TRNS,                 KC_TRNS,    KC_TRNS,    KC_TRNS,
+        KC_TRNS,  KC_TRNS,                 KC_VOLU,       XP(MACESMALL,MACEBIG),    KC_TRNS,    KC_TRNS,    KC_KP_7,        KC_KP_8,       KC_KP_9,     KC_TRNS,    XP(MACUSMALL,MACUBIG),    XP(MACISMALL,MACIBIG),   XP(MACOSMALL,MACOBIG),    KC_TRNS,    KC_TRNS,
+        KC_TRNS,  XP(MACASMALL,MACABIG),   KC_VOLD,                     KC_MPLY,    KC_TRNS,    KC_TRNS,    KC_KP_4,        KC_KP_5,       KC_KP_6,     KC_TRNS,    KC_TRNS,    KC_TRNS,                 KC_TRNS,    KC_TRNS,    KC_TRNS,
         KC_TRNS,  KC_TRNS,                 KC_TRNS,                     KC_TRNS,    KC_TRNS,     KC_TRNS,   KC_KP_1,        KC_KP_2,       KC_KP_3,     KC_TRNS,    KC_TRNS,    KC_TRNS,                 KC_TRNS,    KC_TRNS,    KC_TRNS,
         KC_TRNS,  KC_TRNS,                 KC_TRNS,                     KC_TRNS,    KC_TRNS,                KC_KP_0,        KC_KP_0,       KC_DOT,   KC_TRNS,                KC_TRNS,                  KC_TRNS,    KC_TRNS,    KC_TRNS
     ),
